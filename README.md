@@ -1,7 +1,7 @@
 # 💫About Me :
-🎯 Ambitious web developer seeking new opportunities.
-💡 Passionate about building scalable and efficient solutions.
-🌐 Experienced in full-stack development using modern tech stacks.
+🎯 Ambitious web developer seeking new opportunities. \
+💡 Passionate about building scalable and efficient solutions. \
+🌐 Experienced in full-stack development using modern tech stacks. \
 🚀 Open to learning and growing with exciting projects.
 
 # 💻Tech Stack
